@@ -77,7 +77,3 @@ The primary objective of this report is to analyze the sales performance of Atli
 ### Conclusion
 
 The Sales Report for AtliQ Hardware provides valuable insights into sales performance over various years, identifying trends and patterns across different customers and markets. These insights help the management understand customer behavior and market dynamics, leading to data-driven strategic decision-making and fostering the growth of the company.
-
----
-
-This project was completed as part of the Codebasics Bootcamp 3.0. Special thanks to Dhaval Patel and Hemanand Vadivel for their guidance and support.
