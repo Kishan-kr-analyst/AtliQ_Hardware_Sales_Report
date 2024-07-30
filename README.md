@@ -14,14 +14,14 @@ The primary objective of this report is to analyze the sales performance of Atli
 
 ### The Report Includes:
 
-1. Customer Net Sales Performance
-2. Market Performance vs Target
-3. Top 10 Products Based on Sales
-4. Top 5 and Bottom 5 Products in Quantity Sold
-5. Division Level Sales Report
-6. New Products Launched in 2021
-7. Top 5 Marketplaces
-
+1. _[Customer Net Sales Performance](https://github.com/Kishan-kr-analyst/Sales_Analytics_of_AtliQ_Hardwares/blob/main/AtliQ-Customer_Performance_Report.pdf)_
+2. _[Market Performance vs Target](https://github.com/Kishan-kr-analyst/Sales_Analytics_of_AtliQ_Hardwares/blob/main/AtliQ-Market_Performance_vs_Target.pdf)_
+3. _[Top 10 Products Based on Sales](https://github.com/Kishan-kr-analyst/Sales_Analytics_of_AtliQ_Hardwares/blob/main/AtliQ_Top_10_Product.pdf)_
+4. _[Top 5 and Bottom 5 Products in Quantity Sold](https://github.com/Kishan-kr-analyst/Sales_Analytics_of_AtliQ_Hardwares/blob/main/AtliQ-Top_and_Bottom_Product_Qty.pdf)_
+5. _[Division Level Sales Report](https://github.com/Kishan-kr-analyst/Sales_Analytics_of_AtliQ_Hardwares/blob/main/AtliQ-Division_Level_Report.pdf)_
+6. _[New Products Launched in 2021](https://github.com/Kishan-kr-analyst/Sales_Analytics_of_AtliQ_Hardwares/blob/main/AtliQ-New_Product_2021.pdf)_
+7. _[Top 5 Marketplaces](https://github.com/Kishan-kr-analyst/Sales_Analytics_of_AtliQ_Hardwares/blob/main/AtliQ-Top_5_Market_Place.pdf)_
+    
 ### Methods Performed:
 
 1. **ETL (Extract, Transform, Load)**:
