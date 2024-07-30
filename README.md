@@ -77,3 +77,8 @@ The primary objective of this report is to analyze the sales performance of Atli
 ### Conclusion
 
 The Sales Report for AtliQ Hardware provides valuable insights into sales performance over various years, identifying trends and patterns across different customers and markets. These insights help the management understand customer behavior and market dynamics, leading to data-driven strategic decision-making and fostering the growth of the company.
+
+## Combined Report
+
+The combined report for the sales analysis of AtliQ Hardware is attached to this repository. It includes detailed insights and data visualizations that support the findings mentioned above. _[Click here](https://github.com/Kishan-kr-analyst/Sales_Analytics_of_AtliQ_Hardwares/blob/main/AtliQ-Customer_Performance_Report.pdf)_
+
