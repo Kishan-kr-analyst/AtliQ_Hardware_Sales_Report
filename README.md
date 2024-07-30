@@ -1,4 +1,4 @@
-# Sales Analytics of Atliq Hardware
+# Sales Analytics of AtliQ Hardware
 
 ### Project Overview
 
